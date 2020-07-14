@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+media
+templates
+assets
+db.sqlite3
+migrations
+static
+css
+js
+*.pyc
+*.idea
